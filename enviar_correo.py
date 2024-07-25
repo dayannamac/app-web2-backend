@@ -12,7 +12,7 @@ smtp_password = 'gpqp xyjw ptlf ljzo'
 de = 'dayannamacay6@gmail.com'
 para = 'pruebasenviopython@yopmail.com'
 asunto = 'Notificación'
-cuerpo = 'Esta es una prueba de envio con python.'
+cuerpo = 'Esta es una prueba de envio con python pero con Spring.'
 
 # Crear el objeto del mensaje
 mensaje = MIMEMultipart()
